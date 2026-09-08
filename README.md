@@ -1,26 +1,27 @@
 ```
-	⊂(◉‿◉)つ
+     ⊂(◉‿◉)つ
 
 |    o               |
 |---..,---,,---.,---.|---.,   .
 |   || .-' ,---||   ||   ||   |
 `---'`'---'`---^|---'`   '`---|
                 |         `---'
-```
 
-     #
-   #   #
-   .---.
-   |   |
-   |   |
-  /     \
- /  { }  \
-/_________\
+        #
+      #   #
+      .---.
+      |   |
+      |   |
+     /     \
+    /  { }  \
+   /_________\
+```
 
 Desarrollador y Químico Farmacéutico.
 Vengo de documentar procesos bajo GMP en control de calidad y ser DT de farmacias; hoy desarrollo software.
 
 **Stack:** TypeScript · React · Node.js · Python · FastAPI · PostgreSQL · DRF
+
 **Idiomas:** Español nativo · Inglés B2/C1 · Japonés N4
 
 ---
