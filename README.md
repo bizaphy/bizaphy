@@ -1,16 +1,21 @@
-## Hi there 👋
+```
+           _________
+          =|=======|=
+            |     |
+            |     |
 
-<!--
-**bizaphy/bizaphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|    o               |
+|---..,---,,---.,---.|---.,   .
+|   || .-' ,---||   ||   ||   |
+`---'`'---'`---^|---'`   '`---|
+                |         `---'
+```
 
-Here are some ideas to get you started:
+Desarrollador y Químico Farmacéutico.
+Vengo de documentar procesos bajo GMP; hoy desarrollo software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript · React · Node.js · Python · FastAPI · PostgreSQL · DRF
+
+---
+
+[LinkedIn](https://linkedin.com/in/bizaphy) · [correo](mailto:bzavila@outlook.com)
