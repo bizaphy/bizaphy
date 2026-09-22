@@ -37,8 +37,8 @@ Vengo de documentar procesos bajo GMP en control de calidad y ser DT de farmacia
 
 
 **Idiomas:**
-<img src="https://flagcdn.com/cl.svg" height="12" /> Español nativo ·
-<img src="https://flagcdn.com/us.svg" height="12" /> Inglés B2/C1 ·
+<img src="https://flagcdn.com/es.svg" height="12" /> Español nativo ·
+<img src="https://flagcdn.com/gb.svg" height="12" /> Inglés B2/C1 ·
 <img src="https://flagcdn.com/jp.svg" height="12" /> Japonés N4
 
 ---
